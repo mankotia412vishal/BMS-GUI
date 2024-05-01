@@ -62,6 +62,6 @@ This is a python login system with the Database(MySql). In this project I have u
 Name :- Vishal Singh 
 College Name :- Vishwakarma Institute of Technology
 Email :- vishal.singh20@vit.edu
-mobile no :- 8082983769
+
 </pre>
 # If any doubt feel free to contact me
