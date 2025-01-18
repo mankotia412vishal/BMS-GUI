@@ -196,3 +196,4 @@ More solved problems, delta bonus will be given.
 
 Thoroughness is more important.
 AIzaSyBkrRIdtSlfPKJsLQ4rn0zStpFPvh1s0f0
+AIzaSyDeYf8x21UMA_pi0vcbKvjEI6Y6oIcZsdI
