@@ -1,3 +1,51 @@
+"""
+[01/03, 9:28 am] Vishal Singh: For agent Studio 
+ Platform Governance & Cost Control
+Goal: Deploy an automated Power BI usage dashboard—navigating enterprise firewalls, gateways, and custom HR APIs—to monitor platform budget, identify resource abuse, and provide visibility into cross-BU usage.
+2. Platform Stability & Cross-BU Enablement
+Goal: Act as the primary technical maintainer for MSCI Agent Studio by managing AKS production deployments, delivering urgent roadmap features, and successfully onboarding users across multiple Business Units while maintaining high system uptime.
+3. Infrastructure Scalability
+Goal: Optimize AKS infrastructure by conducting comprehensive load testing and implementing dynamic scale-in/scale-out configurations to eliminate user-reported latency during peak traffic.
+[01/03, 9:54 am] Vishal Singh: Evolene:
+
+1. Enterprise GenAI Enablement (Evolene API Backend)
+Goal: Act as the primary technical owner for the Evolene microservice, managing and scaling the Salesforce integration APIs that power org-wide GenAI client query agents, and seamlessly delivering new data integrations to meet cross-functional business needs.
+2. Executive Reporting & Custom UI Delivery
+Goal: Maintain and enhance custom UI reporting solutions tailored for specific business verticals (e.g., ESG, Issuer Comm team), ensuring high-availability and accuracy of client engagement and pain-point data used directly in C-suite strategic meetings.
+3. System Reliability & Knowledge Sharing
+Goal: Drive platform stability through proactive bug fixes, continuous system upgrades, and leading Knowledge Transfer (KT) sessions to eliminate technical silos and support wider team enablement.
+[01/03, 10:05 am] Vishal Singh: 1. Cost Optimization & Tech Debt Reduction (Decommissioning)
+
+Goal: Lead the strategic decommissioning of legacy applications and infrastructure, successfully reducing organizational technical debt and realizing over $6,000 in annual cloud/infrastructure cost savings.
+2. Platform Reliability & Co-Ownership (MCP for Sustainability & Climate)
+
+Goal: Act as the secondary technical owner for the MCP Sustainability and Climate platform, partnering with the primary owner to ensure continuous system reliability, manage maintenance, and support uninterrupted operations for a core business vertical.
+[01/03, 10:22 am] Vishal Singh: Project Area 1: MSCI Agent Studio
+Goal Title: Platform Governance & Cost Control
+Description: Deploy an automated Power BI usage dashboard—navigating enterprise firewalls, gateways, and custom HR APIs—to monitor platform budget, identify resource abuse, and provide visibility into cross-BU usage.
+Goal Title: Platform Stability & Cross-BU Enablement
+Description: Act as the primary technical maintainer for MSCI Agent Studio by managing AKS production deployments, delivering urgent roadmap features, and successfully onboarding users across multiple Business Units while maintaining high system uptime.
+Goal Title: Infrastructure Scalability
+Description: Optimize AKS infrastructure by conducting comprehensive load testing and implementing dynamic scale-in/scale-out configurations to eliminate user-reported latency during peak traffic.
+Project Area 2: Evolene
+Goal Title: Enterprise GenAI Enablement (Evolene API Backend)
+Description: Act as the primary technical owner for the Evolene microservice, managing and scaling the Salesforce integration APIs that power org-wide GenAI client query agents, and seamlessly delivering new data integrations to meet cross-functional business needs.
+Goal Title: Executive Reporting & Custom UI Delivery
+Description: Maintain and enhance custom UI reporting solutions tailored for specific business verticals (e.g., ESG, Issuer Comm team), ensuring high-availability and accuracy of client engagement and pain-point data used directly in C-suite strategic meetings.
+Goal Title: System Reliability & Knowledge Sharing
+Description: Drive platform stability through proactive bug fixes, continuous system upgrades, and leading Knowledge Transfer (KT) sessions to eliminate technical silos and support wider team enablement.
+Project Area 3: Cost Optimization & MCP Platform
+Goal Title: Cost Optimization & Tech Debt Reduction
+Description: Lead the strategic decommissioning of legacy applications and infrastructure, successfully reducing organizational technical debt and realizing over $6,000 in annual cloud/infrastructure cost savings.
+Goal Title: Platform Reliability & Co-Ownership (MCP)
+Description: Act as the secondary technical owner for the MCP Sustainability and Climate platform, partnering with the primary owner to ensure continuous system reliability, manage maintenance, and support uninterrupted operations for a core business vertical.
+Project Area 4: Professional Development
+Goal Title: Azure Cloud & AI Developer Mastery
+Description: Deepen enterprise cloud architecture expertise by mastering advanced Azure resource management and security protocols (e.g., Azure Key Vaults, AKS), establishing myself as a Subject Matter Expert for secure, scalable AI application deployments.
+
+"""
+
+
 ### Bank Management System Using Tkinter and MYSQL as a Database
 
 ## 🎇Introduction🎇
